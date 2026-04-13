@@ -33,6 +33,7 @@ dependencies = [
     "mem0ai==0.1.118",
     "mmengine==0.10.3",
     "modelscope==1.18.1",
+    "nbconvert>=7.17.1",
     "openai==1.90.0",
     "openpyxl==3.1.5",
     "oss2==2.19.0",
