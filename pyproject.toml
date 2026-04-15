@@ -38,6 +38,7 @@ dependencies = [
     "openpyxl==3.1.5",
     "oss2==2.19.0",
     "pandas==2.2.3",
+    "pyarrow==20.0.0",
     "pymupdf4llm==0.2.6",
     "ragas==0.1.9",
     "seaborn==0.13.2",
